@@ -1,0 +1,20 @@
+nav{
+    background-color: #5e068a;
+    color: white;
+}
+a:hover{
+    color: blueviolet;
+}
+ul{
+    font-weight: bold;
+}
+.btn{
+    background: #5e068a;
+    color: white;
+    
+    
+}
+h1{
+    color: #5e068a;
+    text-align: center;
+}
